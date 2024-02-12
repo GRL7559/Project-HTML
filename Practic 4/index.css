@@ -1,0 +1,315 @@
+
+
+.text-catalog {
+  color: rgba(255, 255, 255, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text-ng1 {
+  left: 44px;
+  color: rgba(231, 170, 71, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text-ng2 {
+  left: 419px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text-ng3 {
+  left: 542px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text-ng4 {
+  left: 632px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text-ng5 {
+  left: 736px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hero-text {
+  top: 92px;
+  color: rgba(141, 141, 141, 1);
+  width: 928px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.text-explore {
+  color: rgba(255, 255, 255, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text-more {
+  top: 207px;
+  left: 250px;
+  color: rgba(141, 141, 141, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text-scroll{
+  top: 1px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.navigation {
+  top: 50px;
+  left: 100px;
+  width: 928px;
+  height: 27px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.menu {
+  top: 2px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.search {
+  top: 2px;
+  left: 860px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.user {
+  top: 2px;
+  left: 904px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.hero-content {
+  top: 380px;
+  left: 100px;
+  width: 928px;
+  height: 320px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+
+.slogan {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: relative;
+  font-size: 48px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.yellow {
+  color: rgba(231, 170, 71, 1);
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.landing {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(31, 31, 31, 1);
+}
+.on-image {
+  top: 0px;
+  left: 1128px;
+  width: 792px;
+  height: 1080px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.image-general {
+  top: 0px;
+  left: 0px;
+  width: 792px;
+  height: 1080px;
+  position: absolute;
+}
+.image-text {
+  top: 394px;
+  left: 241px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.catalog {
+  top: 636px;
+  left: 296px;
+  width: 200px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(231, 170, 71, 1);
+}
+.explore{
+  top: 196px;
+  left: 0px;
+  width: 200px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(231, 170, 71, 1);
+}
+.instagram {
+  top: 296px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.facebook {
+  top: 296px;
+  left: 44px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.twitter {
+  top: 296px;
+  left: 88px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.scroll {
+  top: 1006px;
+  left: 100px;
+  width: 126px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dropdown {
+  top: 0px;
+  left: 102px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
